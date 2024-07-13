@@ -1,4 +1,4 @@
-# MBA_Disciplina2: Introdução a Ciência de Dados
+# MBA USP 2021 - Disciplina2 - Introdução a Ciência de Dados
 MBA Ciência de Dados USP 2021 <br>
 Aula 1 - Introdução a Ciência de Dados e Suas Etapas <br>
 Aula 2 - Selecionando Métodos e Ajustando Modelos <br>
